@@ -1,0 +1,10 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Compiled artifacts ###
+*.class
+
+### OS ###
+.DS_Store
